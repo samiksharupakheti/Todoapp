@@ -5,7 +5,7 @@ import androidx.fragment.app.FragmentManager;
 
 import android.os.Bundle;
 
-public class EditToDoActivity extends AppCompatActivity  {
+public class EditTodoActivity extends AppCompatActivity  {
 
     Fragment mFragment;
     FragmentManager mFragmentManager;
@@ -20,6 +20,4 @@ public class EditToDoActivity extends AppCompatActivity  {
                 .add(R.id.main_container, mFragment)
                 .commit();
     }
-
-
 }
