@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/samik/AppData/Local/Temp/MyToDo/app/src/main/res/layout/activity_edit_todo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/samik/AppData/Local/Temp/MyToDo/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/samik/AppData/Local/Temp/MyToDo/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/samik/AppData/Local/Temp/MyToDo/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

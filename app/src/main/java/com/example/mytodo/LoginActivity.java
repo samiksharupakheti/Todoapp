@@ -44,7 +44,7 @@ public class LoginActivity extends AppCompatActivity {
                 }
                 else
                 {
-                    if(username.equals("admin") && password.equals("admin"))
+                    if(username.equals("admin") && password.equals("here"))
                     {
                         SharedPreferences preferences= getApplicationContext().getSharedPreferences( "MyToDo_pref", 0);
                         SharedPreferences.Editor editor=preferences.edit();
